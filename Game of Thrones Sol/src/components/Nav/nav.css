@@ -1,0 +1,12 @@
+.Nav-container {
+    border-style: solid;
+    width: 100%;
+    height: 40px;
+    border-width: 1px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Link {
+    margin-left:300px
+}
